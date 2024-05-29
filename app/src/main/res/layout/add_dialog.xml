@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/header"
+        android:layout_marginTop="40dp"
+        android:hint="Enter Header Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/addHeader"
+        android:text="Add Header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"/>
+
+    <EditText
+        android:id="@+id/content"
+        android:layout_marginTop="40dp"
+        android:hint="Enter Content Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/addContent"
+        android:text="Add Content"
+        android:layout_marginBottom="@dimen/margin_10_dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"/>
+</LinearLayout>

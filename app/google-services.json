@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "66784862066",
+    "firebase_url": "https://multi-purpose-online-tutorial-default-rtdb.firebaseio.com",
+    "project_id": "multi-purpose-online-tutorial",
+    "storage_bucket": "multi-purpose-online-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66784862066:android:4e635aa1e941dff43207eb",
+        "android_client_info": {
+          "package_name": "com.multipurposeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBWB4zhXGwKUY21HLZ6a2z3CgeAx7NIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
